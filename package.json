@@ -1,0 +1,28 @@
+{
+  "name": "lab22021",
+  "version": "1.0.0",
+  "description": "Calculadora NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbotia/lab22021.git"
+  },
+  "keywords": [
+    "Suma",
+    "resta",
+    "multi",
+    "division"
+  ],
+  "author": "DB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbotia/lab22021/issues"
+  },
+  "homepage": "https://github.com/dbotia/lab22021#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
