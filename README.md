@@ -1,11 +1,12 @@
 # lab22021
 
-Implementation of a Simple Calculator with the next operations:
+Implemento las operaciones:
 
 * Add
 * Minus
 * Multiply
 * Divide
+* Raiz cuadrada
 
 Including integration with Travis CI, Sonarqube (SonarCloud), Coveralls and Snyk
 
