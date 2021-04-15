@@ -1,5 +1,8 @@
 # lab22021
 
+Travis-CI:  [![Build Status](https://travis-ci.org/dbotia/lab22021.svg?branch=main)](https://travis-ci.org/dbotia/lab22021)
+
+
 Implemento las operaciones:
 
 * Add
