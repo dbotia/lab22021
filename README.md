@@ -2,6 +2,18 @@
 
 Travis-CI:  [![Build Status](https://travis-ci.org/dbotia/lab22021.svg?branch=main)](https://travis-ci.org/dbotia/lab22021)
 
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=lab22021&metric=bugs)](https://sonarcloud.io/dashboard?id=lab22021)
+
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=lab22021&metric=code_smells)](https://sonarcloud.io/dashboard?id=lab22021)
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=lab22021&metric=coverage)](https://sonarcloud.io/dashboard?id=lab22021)
+
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=lab22021&metric=ncloc)](https://sonarcloud.io/dashboard?id=lab22021)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lab22021&metric=alert_status)](https://sonarcloud.io/dashboard?id=lab22021)
+
+
+
 
 Implemento las operaciones:
 
