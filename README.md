@@ -12,7 +12,7 @@ Travis-CI:  [![Build Status](https://travis-ci.org/dbotia/lab22021.svg?branch=ma
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lab22021&metric=alert_status)](https://sonarcloud.io/dashboard?id=lab22021)
 
-
+Coverall: [![Coverage Status](https://coveralls.io/repos/github/dbotia/lab22021/badge.svg?branch=main)](https://coveralls.io/github/dbotia/lab22021?branch=main)
 
 
 Implemento las operaciones:
